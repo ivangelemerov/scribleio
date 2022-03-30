@@ -1,4 +1,4 @@
-# SCRIBLE.io
+# SCRIBBLE.io
 ## General overview of the game
 - The players each take turns drawing an image of the word they have chosen
 - The players that are not drawing have to try and guess the word by typing it into the chat

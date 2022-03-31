@@ -7,3 +7,26 @@
 ## Rules
 - `DO NOT` write the word on the screen
 - `IF` someone has guessed the word, you have to stop drawing
+
+# Examples
+
+<details>
+    <summary>Can you guess what it is </summary>
+    <details>
+        <summary> It's an animal that lives in antartic</summary>
+            It's a bear!!!!
+    </details>
+</details>
+
+![Bear](Image/bear.png)
+
+
+<details>
+    <summary>Can you guess what this one is!!!! </summary>
+    <details>
+        <summary> It's a robbery, who's saying pls</summary>
+            His a victim!!!!
+    </details>
+</details>
+
+![victim](Image/victim.png)
